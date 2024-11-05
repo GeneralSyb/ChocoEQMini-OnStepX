@@ -73,6 +73,6 @@ OnStep is open source free software, licensed under the GPL.
 
 See [LICENSE.txt](./LICENSE.txt) file.
 
-# Author
+# Orgininal Author
 [Howard Dutton](http://www.stellarjourney.com)
 
