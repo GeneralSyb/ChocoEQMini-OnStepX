@@ -1,4 +1,4 @@
-# Just for testing so far!!!!!!
+# Just for testing so far!!!!!! [OnStepX Github repo](https://github.com/hjd1964/OnStepX)
 # Changes from normal OnStepX
 * Changed the Config.h to use the ChocoEQMini board, set the driver to the TMC2209 and added ```#define DRIVER_TMC_STEPPER``` near the bottom to force it to use the TMCStepper library instead of the TMC2209 library which seems to be bugged or something.
 * Changed the /src/Constants.h to have the ChocoEQMini board definition.
