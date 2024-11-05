@@ -15,6 +15,7 @@
 #endif
 ```
 * Added the pinmap file /src/pinmaps/Pins.ChocoEQMini.h
+* Required libraries so far are TMCStepper and ESPSoftwareSerial, both can be downloaded from the library manager.
 
 OnStepX Telescope Controller
 ===========================
